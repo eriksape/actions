@@ -1,4 +1,4 @@
-# `node-base` - **Github Action**
+# `node-12-setup` - **Github Action**
 
 This action checks out the commit, sets up Node and installs deps using yarn.
 
